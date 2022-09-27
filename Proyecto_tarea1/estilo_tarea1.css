@@ -1,0 +1,21 @@
+
+body {
+    background-color:aliceblue;
+  }
+
+#principal {
+    background-color:lightblue;
+    padding: 20px;
+}
+.articulo {
+  background-color:darkturquoise;
+  margin: 20px;
+}
+
+#pie {
+  text-align: center;
+  color:darkblue;
+  border-style: solid;
+  border-width: medium;
+  border-color:cornflowerblue;
+}
